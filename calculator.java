@@ -20,6 +20,13 @@ public static void subtraction(int num1,int num2){
 }
 public static void multiplication(int num1,int num2){
 			System.out.println("multiplication="+(num1*num2));
+	
 
 }
+	public static void square(int num1,int num2){
+			System.out.println("squares="+(num1*num1)+(num2*num2));
+	
+
+}
+	printf("Helloworld");
 }
