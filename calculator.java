@@ -5,7 +5,10 @@ public class calculator{
 			System.out.println("calculator java program");
 
 		}
-publiv static void addition(int num1,int num2){
+public static void addition(int num1,int num2){
 			System.out.println("Addition="+(num1+num2));
+}
+public static void subtraction(int num1,int num2){
+			System.out.println("Subtraction="+ (num1-num2));
 }
 }
